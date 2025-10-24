@@ -1,0 +1,11 @@
+name,similarity,rating,metacritic,playtime,ratings_count,genres_list
+God of War (2018),0.9856,4.55,94,15,5058,['Action']
+Grand Theft Auto IV,0.9604,4.26,95,10,3071,['Action']
+Grand Theft Auto: San Andreas,0.9199,4.5,93,2,3981,['Action']
+Batman: Arkham City,0.9091,4.41,94,20,2150,['Action']
+Grand Theft Auto: Vice City,0.9085,4.44,94,2,3050,['Action']
+Half-Life 2,0.8943,4.48,96,7,4026,"['Shooter', 'Action']"
+The Elder Scrolls V: Skyrim,0.8567,4.42,94,46,4839,"['Action', 'RPG']"
+The Last Of Us,0.8527,4.54,95,15,3286,"['Adventure', 'Action']"
+Mass Effect 2,0.8485,4.46,94,22,3044,"['Action', 'RPG']"
+Uncharted 3: Drake's Deception,0.8445,4.37,92,12,1932,['Action']

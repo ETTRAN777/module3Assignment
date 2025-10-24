@@ -1,0 +1,11 @@
+name,similarity,rating,metacritic,playtime,ratings_count,genres_list
+Cuphead,0.9781,4.37,87,6,2019,"['Platformer', 'Indie', 'Action']"
+Dead Cells,0.8565,4.24,88,10,1718,"['Platformer', 'Indie', 'Action', 'RPG']"
+TowerFall Ascension,0.8402,3.95,87,3,290,"['Platformer', 'Indie', 'Action']"
+Mark of the Ninja,0.8317,3.98,91,5,765,"['Platformer', 'Indie', 'Action']"
+Super Meat Boy,0.8207,3.98,87,3,1755,"['Platformer', 'Indie']"
+Limbo,0.8127,4.14,88,3,3370,"['Adventure', 'Action', 'Puzzle', 'Indie', 'Platformer']"
+Psychonauts,0.8034,4.04,87,4,975,"['Platformer', 'Action']"
+INSIDE,0.8019,4.39,87,4,2551,"['Adventure', 'Action', 'Puzzle', 'Indie', 'Platformer']"
+SteamWorld Dig 2,0.7727,4.07,88,5,430,"['Indie', 'Platformer', 'Adventure', 'Action']"
+Spelunky 2,0.7495,3.88,90,3,144,"['Platformer', 'Indie', 'Action']"

@@ -1,0 +1,11 @@
+name,similarity,rating,metacritic,playtime,ratings_count,genres_list
+Spelunky,0.8742,3.68,90,3,638,"['Platformer', 'Indie']"
+Mark of the Ninja,0.7861,3.98,91,5,765,"['Platformer', 'Indie', 'Action']"
+Hollow Knight,0.7404,4.41,88,7,2670,"['Platformer', 'Indie', 'Action']"
+Super Meat Boy,0.7188,3.98,87,3,1755,"['Platformer', 'Indie']"
+Cuphead,0.6906,4.37,87,6,2019,"['Platformer', 'Indie', 'Action']"
+Rayman Legends,0.674,4.16,89,5,1558,['Platformer']
+Braid,0.6393,4.15,92,2,994,"['Action', 'Puzzle', 'Arcade', 'Indie', 'Platformer']"
+Spelunky 2,0.6325,3.88,90,3,144,"['Platformer', 'Indie', 'Action']"
+Dead Cells,0.6209,4.24,88,10,1718,"['Platformer', 'Indie', 'Action', 'RPG']"
+TowerFall Ascension,0.5819,3.95,87,3,290,"['Platformer', 'Indie', 'Action']"
